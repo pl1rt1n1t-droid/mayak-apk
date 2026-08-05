@@ -1,0 +1,17 @@
+{
+  "name": "mayak-molchaniya",
+  "version": "1.0.0",
+  "description": "Маяк Молчания — мобильное приложение (Android)",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "sync": "cap sync"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/android": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

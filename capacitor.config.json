@@ -1,0 +1,8 @@
+{
+  "appId": "com.mayakmolchaniya.app",
+  "appName": "Маяк Молчания",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
